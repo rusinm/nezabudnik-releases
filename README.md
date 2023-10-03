@@ -3,4 +3,4 @@
 Repository containing production releases of Nezabudnik app.
 
 Releases:
-* v2.0.3
+* v2.12.0
