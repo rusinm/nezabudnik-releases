@@ -8,3 +8,5 @@ Releases:
 * v2.15.0 - enriched xlsx folder report
 * v2.16.0 - week backup to home dir, send sync key and apply, PDF export date range 
 * v2.17.0 - multifolder select, navigate to folder from event, recurrent events
+* v2.18.0 - pcloud wizard step added, calendar XLSX export, bug with daylight saving time change fixed
+
