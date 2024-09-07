@@ -10,4 +10,4 @@ Releases:
 * v2.17.0 - multifolder select, navigate to folder from event, recurrent events
 * v2.18.0 - pcloud wizard step added, calendar XLSX export, bug with daylight saving time change fixed
 * v2.19.0 - restyling, activities xlsx export fixed
-
+* v2.20.0 - copy & transfer note, option to create a folder event without note
