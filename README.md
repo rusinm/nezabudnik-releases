@@ -12,3 +12,4 @@ Releases:
 * v2.19.0 - restyling, activities xlsx export fixed
 * v2.20.0 - copy & transfer note, option to create a folder event without note
 * v2.20.1 - fix folder title year auto increase
+* v2.21.0 - uninstaller, remove recurrent event, change event folder
