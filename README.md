@@ -13,3 +13,4 @@ Releases:
 * v2.20.0 - copy & transfer note, option to create a folder event without note
 * v2.20.1 - fix folder title year auto increase
 * v2.21.0 - uninstaller, remove recurrent event, change event folder
+* v2.21.1 - fix intro, event notifications, clearing notes after event is deleted, uninstaller
