@@ -15,4 +15,4 @@ Releases:
 * v2.21.0 - uninstaller, remove recurrent event, change event folder
 * v2.21.1 - fix intro, event notifications, clearing notes after event is deleted, uninstaller
 * v2.22.0 - update school year for all folders, allow copy and paste formatted code, fix intro, new 'all day' option for calendar events
-
+* v2.22.1 - fix tag modal
