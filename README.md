@@ -17,3 +17,4 @@ Releases:
 * v2.22.0 - update school year for all folders, allow copy and paste formatted code, fix intro, new 'all day' option for calendar events
 * v2.22.1 - fix tag modal
 * v2.23.0 - global folder search
+* v2.24.0 - parental agreement alerts, zero hours, week numbers, fix recurrent event deletion
