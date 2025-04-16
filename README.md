@@ -18,3 +18,4 @@ Releases:
 * v2.22.1 - fix tag modal
 * v2.23.0 - global folder search
 * v2.24.0 - parental agreement alerts, zero hours, week numbers, fix recurrent event deletion
+* v2.24.1 - fix mass parental agreeement processing
