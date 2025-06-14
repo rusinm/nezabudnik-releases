@@ -20,3 +20,4 @@ Releases:
 * v2.24.0 - parental agreement alerts, zero hours, week numbers, fix recurrent event deletion
 * v2.24.1 - fix mass parental agreeement processing
 * v2.24.2 - fix calendar search results
+* v2.24.3 - loading screen, add template note from event
