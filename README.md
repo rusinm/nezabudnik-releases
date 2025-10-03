@@ -23,3 +23,4 @@ Releases:
 * v2.24.3 - loading screen, add template note from event
 * v2.24.4 - fix formatting, update folder dialog
 * v2.25.0 - note colour tag
+* v2.26.0 - todos
